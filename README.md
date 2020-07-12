@@ -1,5 +1,5 @@
 # Test Project
-## Description Description sample text
+## Description Sample text
 ## Table of Contents
 1.[Usage](#Usage)
 
