@@ -3,7 +3,7 @@
 ## Table of Contents
 1.[Usage](#Usage)
 
-![]utils/sampleREADME.jpg)
+![](utils/sampleREADME.jpg)
 
 2.[Contribution](#Contribution)
   
