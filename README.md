@@ -1,10 +1,5 @@
-
 # README Generator
-## Description One of the most important aspects about a project is the README. With this generator, any user is able to create a template for a README
-=======
-# Test Project
-## Description Sample text
-
+## Description One important aspect about projects are the README's. With this generator, users are able to generate a README template
 ## Table of Contents
 1.[Usage](#Usage)
 
@@ -14,7 +9,7 @@
 ## Installation Requirements
     Requires npm inquirer
 ## Usage
-    Creating templates for README
+    Template README generation
 ## License
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io/)
 ## Contribution
