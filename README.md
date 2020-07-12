@@ -2,10 +2,11 @@
 ## Description One important aspect about projects are the README's. With this generator, users are able to generate a README template
 ## Table of Contents
 1.[Usage](#Usage)
-
+![]utils/sampleREADME.png
 2.[Contribution](#Contribution)
   
 3.[Questions](#Questions)
+![](utils/questions.png)
 ## Installation Requirements
     Requires npm inquirer
 ## Usage
