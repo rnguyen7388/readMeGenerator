@@ -1,5 +1,5 @@
-# README Generator
-## Description One important aspect about projects are the README's. With this generator, users are able to generate a README template
+# test
+## Description testing description
 ## Table of Contents
 1.[Usage](#Usage)
 
@@ -7,13 +7,13 @@
   
 3.[Questions](#Questions)
 ## Installation Requirements
-    Requires npm inquirer
+    inquirer
 ## Usage
-    Template README generation
+    sample text
 ## License
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://shields.io/)
 ## Contribution
-    Feel free to contact Ray's GitHub
+    sample text
 ## Questions
 
 If you have any questions, please contact my GitHub(https://github.com/rnguyen7388) or send me an email at rnguyen7388@gmail.com

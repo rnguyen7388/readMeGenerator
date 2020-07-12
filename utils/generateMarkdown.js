@@ -2,7 +2,8 @@
 function generateMarkdown(data) {
   let licenseLink = `https://img.shields.io/badge/license-${data.license}-blue.svg`
   return `# ${data.title}
-## Description ${data.description}
+## Description 
+    ${data.description}
 ## Table of Contents
 1.[Usage](#Usage)
 
